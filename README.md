@@ -1,3 +1,5 @@
+## About Me  
+
 ```javascript
 const Andrew = {
 
@@ -14,16 +16,28 @@ const Andrew = {
     challenge: "I am doing the #30DaysOfCode challenge focused on React"
 }
 ```
+##  GitHub Trophies  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndyLaBorde&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Heatin' Up  
+
+[![Andy's GitHub Streak](https://streak-stats.demolab.com/?user=AndyLaBorde&theme=react)](https://git.io/streak-stats)
+
+## GitHub Stats  
+<div>
+  <img alt="Andy's GitHUb Stats" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AndyLaBorde&count_private=true&include_all_commits=true&theme=react" />
+
+  <img alt="Andy's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLaBorde&theme=react" />
+    <p>
+        <img src="./images/octocat.gif">
+        <img src="https://profile-counter.glitch.me/AndyLaBorde/count.svg" />
+    </p>
+</div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AndyLaBorde&theme=react)](https://git.io/streak-stats)
 
-![Andy's github stats](https://github-readme-stats.vercel.app/api?username=AndyLaBorde&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<p>
-    <img src="https://profile-counter.glitch.me/AndyLaBorde/count.svg" />
-    <img src="./images/octocat.gif">
-</p>
 
 
 
