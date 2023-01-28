@@ -20,11 +20,10 @@ const Andrew = {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndyLaBorde&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Heatin' Up  
+## GitHub Stats  
 
 [![Andy's GitHub Streak](https://streak-stats.demolab.com/?user=AndyLaBorde&theme=react)](https://git.io/streak-stats)
-
-## GitHub Stats  
+  
 <div>
   <img alt="Andy's GitHUb Stats" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AndyLaBorde&count_private=true&include_all_commits=true&theme=react" />
 
