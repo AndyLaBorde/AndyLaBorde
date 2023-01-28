@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+![octocat](images/octocat.gif)
+<img align='right' src='https://github.com/AndyLaBorde/AndyLaBorde/images/octocat.gif' width='150"'>
 <!--
 **AndyLaBorde/AndyLaBorde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
